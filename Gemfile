@@ -29,7 +29,7 @@ gem 'dotenv'
 
 group :development do
   gem 'thin'
-  gem 'debugger'
+  gem 'pry-rails'
 end
 
 # DB
